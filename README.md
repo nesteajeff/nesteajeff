@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nesteajeff
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to code and Kyle Lowry
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on side projects
 - 📫 How to reach me: jeffreypeng2@gmail.com
 
