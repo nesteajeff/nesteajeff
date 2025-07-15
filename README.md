@@ -1,4 +1,4 @@
-Hi! I'm Jeffrey :)
+Hi, I'm Jeffrey :)
 
 <!---
 nesteajeff/nesteajeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
