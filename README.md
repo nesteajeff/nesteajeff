@@ -1,6 +1,6 @@
 Hi, I'm Jeffrey, a 5th year CS student @ UWaterloo!
 
-🌐 Portfolio: https://jeffreypeng.com
+🌐 Portfolio: https://www.jeffreypeng.com
 
 🔗 Habit Tracker: https://www.habitstracker.ca
 
